@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Islamic Relief",
+    "url": "https://islamicrelief.de",
+    "description": "Hilfe für Bedürftige weltweit",
+    "icon": "favorite"
+  },
+  {
+    "name": "UNICEF",
+    "url": "https://unicef.de",
+    "description": "Unterstütze Kinder in Not",
+    "icon": "child_care"
+  }
+]
